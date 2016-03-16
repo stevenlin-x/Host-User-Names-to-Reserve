@@ -60,7 +60,7 @@ sales
 support
 ````
 
-Addresses that some SSL CAs will use to verify ownership:
+email names that some SSL CAs will use to verify ownership:
 ````text
 ssladmin
 ssladministrator
